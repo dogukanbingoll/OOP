@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_3.GUN_ODEV/OOP_3.GUN_ODEV.iml" filepath="$PROJECT_DIR$/OOP_3.GUN_ODEV/OOP_3.GUN_ODEV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_4.GUN_ODEV_GAME/OOP_4.GUN_ODEV_GAME.iml" filepath="$PROJECT_DIR$/OOP_4.GUN_ODEV_GAME/OOP_4.GUN_ODEV_GAME.iml" />
     </modules>
   </component>
 </project>
